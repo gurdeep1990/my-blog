@@ -1,2 +1,1 @@
-# my-blog
-My Jekyll website 
+This is the repo for my Jeykll blog
